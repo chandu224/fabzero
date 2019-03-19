@@ -14,6 +14,8 @@ Mr.Franchie has briefed about the equipments.
 - EPILOG LASER.
 - PUREX.
 - 3D WOX Printer.
+![](image/3dprinter.jpg)
+
 - Weller heat gun and soldering rod.
 - FORMLABS 3D printing device.
 - Shopboat wood cutter which runs at 14,000 rpm WEN and DeWALT equipment.
