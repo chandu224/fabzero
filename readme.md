@@ -36,5 +36,12 @@ we have installed softwares
     2. Copy the clone Address from github
     3. Control + Shift + P
     4. New address will open then type Git: Clone pate the clone address. 
-At 12:45 hrs Mr.Franchie informed will give demo on 3D printer.
+At 12:45 hrs Mr.Franchie informed will give demo on 3D printer,vily cutting machine.
+
+After lunch mentor give demo of using vily cutting machine like inserting the role into the vily machine and how to take precautions by the time of using roland vily cutting machine.
+#### the usage are said bellow:
+1. take the role and put it on the vily cutting machine rolling rods
+like <br>
+
+![ rolling rods](image/rollsrod.jpg)
 
