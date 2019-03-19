@@ -50,5 +50,6 @@ like <br>
 
 3. then lock the sheet and check it properly adjust are not and check align are adjust properly 
 like<br>
-![adjust](image/lockadjust.jpg)<br>
-![adjust](image/verticallines.jpg)
+![](image/lockadjust.jpg)<br>
+![](image/verticallines.jpg)<br>
+![](image/vilycutter_img.jpg)
