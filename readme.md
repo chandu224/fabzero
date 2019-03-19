@@ -8,16 +8,15 @@ My trainers are Mr.Franchi and Mr.Sibu.
 Both are explaining well. 
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms. 
 Mr.Franchie has briefed about the equipments. 
-<ul>
-<li>Roland.</li>
-<li>EPILOG LASER. </li>
-<li>PUREX.</li>
-<li>3D WOX Printer.</li>
-<li>Weller heat gun and soldering rod. </li>
-<li>FORMLABS 3D printing device.</li>
-<li>Shopboat wood cutter which runs at 14,000 rpm WEN and DeWALT equipment.</li>
-</ul>
+
+- Roland.
+- EPILOG LASER.
+- PUREX.
+- 3D WOX Printer.
+- Weller heat gun and soldering rod.
+- FORMLABS 3D printing device.
+- Shopboat wood cutter which runs at 14,000 rpm WEN and DeWALT equipment.
+
 
 on 19th march installed windows git
-
-<img src="~/myrepository/roland_vily_cuttin_plotter.jpg"/>
+!(image/roland_vily_cuttin_plotter.jpg)
