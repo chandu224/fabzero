@@ -19,3 +19,5 @@ Mr.Franchie has briefed about the equipments.
 </ul>
 
 on 19th march installed windows git
+
+<img src="myrepository/roland_vily_cuttin_plotter.jpg"/>
