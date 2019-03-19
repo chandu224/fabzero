@@ -10,6 +10,7 @@ In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two ro
 Mr.Franchie has briefed about the equipments. 
 
 - Roland.
+![](image/roland_vily_cuttin_plotter.jpg)
 - EPILOG LASER.
 - PUREX.
 - 3D WOX Printer.
@@ -18,5 +19,8 @@ Mr.Franchie has briefed about the equipments.
 - Shopboat wood cutter which runs at 14,000 rpm WEN and DeWALT equipment.
 
 
-on 19th march installed windows git
-![](image/roland_vily_cuttin_plotter.jpg)
+On 19th March 2019 (2nd day) we have installed softwares Inkscape (2D Drawing), Cura (3D drawing) and Git Windows.
+Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/
+Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software
+Link of Git Windows to download https://git-scm.com/download/win
+At 12:45 hrs Mr.Franchie informed will give demo on 3D printer.
