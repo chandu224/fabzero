@@ -53,3 +53,4 @@ like<br>
 ![](image/lockadjust.jpg)<br>
 ![](image/verticallines.jpg)<br>
 ![adjust](image/vilycutter_img.jpg)<br>
+![adjust](image/chandu_vily_cutter.jpg)<br>
