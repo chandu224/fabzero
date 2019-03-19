@@ -42,6 +42,9 @@ After lunch mentor give demo of using vily cutting machine like inserting the ro
 #### the usage are said bellow:
 1. take the role and put it on the vily cutting machine rolling rods
 like <br>
+![ rolling rods](image/rollsrod.jpg)<br>
+2. Then next adjust the roll in white lines using the small rolls 
+like <br>
 
-![ rolling rods](image/rollsrod.jpg)
+![adjust](adjust_small.jpg)
 
