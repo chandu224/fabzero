@@ -10,6 +10,7 @@ In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two ro
 Mr.Franchie has briefed about the equipments. 
 
 - Roland.
+
 ![](image/roland_vily_cuttin_plotter.jpg)
 - EPILOG LASER.
 - PUREX.
