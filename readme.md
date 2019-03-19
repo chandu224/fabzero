@@ -52,4 +52,4 @@ like <br>
 like<br>
 ![](image/lockadjust.jpg)<br>
 ![](image/verticallines.jpg)<br>
-![](image/vilycutter_img.jpg)
+![adjust](image/vilycutter_img.jpg)<br>
