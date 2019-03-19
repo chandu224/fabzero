@@ -46,5 +46,5 @@ like <br>
 2. Then next adjust the roll in white lines using the small rolls 
 like <br>
 
-![adjust](adjust_small.jpg)
+![adjust](image/adjust_small.jpg)
 
