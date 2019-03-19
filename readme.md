@@ -28,4 +28,12 @@ we have installed softwares
 - Cura (3D drawing)(Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software)
 - Git Windows(Link of Git Windows to download https://git-scm.com/download/win).
 
+- installed visual Studio Code
+- installed Code Spell Checker in visual Studio Code
+- Linkage Windows GIT to visual Studio Code:
+    1. open New Window in visual Studio Code
+    2. Copy the clone Address from github
+    3. Control + Shift + P
+    4. New address will open then type Git: Clone pate the clone address. 
 At 12:45 hrs Mr.Franchie informed will give demo on 3D printer.
+
