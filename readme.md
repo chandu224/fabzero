@@ -19,8 +19,10 @@ Mr.Franchie has briefed about the equipments.
 - Shopboat wood cutter which runs at 14,000 rpm WEN and DeWALT equipment.
 
 
-On 19th March 2019 (2nd day) we have installed softwares Inkscape (2D Drawing), Cura (3D drawing) and Git Windows.
-Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/
-Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software
-Link of Git Windows to download https://git-scm.com/download/win
+On 19th March 2019 (2nd day)
+we have installed softwares 
+- Inkscape (2D Drawing)(Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
+- Cura (3D drawing)(Link of Cura to download https://ultimaker.com/en/products/ultimaker-cura-software)
+- Git Windows(Link of Git Windows to download https://git-scm.com/download/win).
+
 At 12:45 hrs Mr.Franchie informed will give demo on 3D printer.
