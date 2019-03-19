@@ -24,9 +24,10 @@ Mr.Franchie has briefed about the equipments.
 
 On 19th March 2019 (2nd day)
 we have installed softwares 
-- Inkscape (2D Drawing)[click here](Link of inkscape to download https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
-- Cura (3D drawing)(Link of Cura to download[click here] https://ultimaker.com/en/products/ultimaker-cura-software)
-- Git Windows[click here](Link of Git Windows to download https://git-scm.com/download/win).
+- Inkscape (2D Drawing)
+[click here](https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
+- Cura (3D drawing)[click here](https://ultimaker.com/en/products/ultimaker-cura-software)
+- Git Windows[click here](https://git-scm.com/download/win).
 
 - installed visual Studio Code
 - installed Code Spell Checker in visual Studio Code
