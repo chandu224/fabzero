@@ -9,7 +9,7 @@ Both are explaining well.
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms. 
 Mr.Franchie has briefed about the equipments. 
 
-- Roland.
+- Roland.<br>
 
 ![](image/roland_vily_cuttin_plotter.jpg)
 - EPILOG LASER.
