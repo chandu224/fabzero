@@ -36,21 +36,6 @@ we have installed softwares
     2. Copy the clone Address from github
     3. Control + Shift + P
     4. New address will open then type Git: Clone pate the clone address. 
-At 12:45 hrs Mr.Franchie informed will give demo on 3D printer,vily cutting machine.
+At 12:45 hrs Mr.Franchie informed will give demo on 3D printer,vinyl cutting machine.
 
-After lunch mentor give demo of using vily cutting machine like inserting the role into the vily machine and how to take precautions by the time of using roland vily cutting machine.
-#### the usage are said bellow:
-1. take the role and put it on the vily cutting machine rolling rods
-like <br>
-![ rolling rods](image/rollsrod.jpg)<br>
-2. Then next adjust the roll in white lines using the small rolls 
-like <br>
-
-![adjust](image/adjust_small.jpg)<br>
-
-3. then lock the sheet and check it properly adjust are not and check align are adjust properly 
-like<br>
-![](image/lockadjust.jpg)<br>
-![](image/verticallines.jpg)<br>
-![adjust](image/vilycutter_img.jpg)<br>
-![adjust](image/chandu_vily_cutter.jpg)<br>
+- [vinyl cutting machine](vinylcutter.md)
