@@ -1,7 +1,7 @@
 # Allu Chendra Sekhar's fabzero expirience 
 
-## About
-Hai This is Mr.Allu Chendra Sekhar. I am from STPI-PUNE. Working as Technical Officer.I did my masters in computer science.
+## About Me
+Hai This is Mr.Allu Chendra Sekhar. I am Working as Technical Officer in  STPI-PUNE.I did my masters in computer science in DR.Lankapally bullayya PG College in visakhapatnam.
 
 ## Profile
 ![](image/chandu_prof.jpg)  
@@ -34,8 +34,8 @@ Mr.Franchie has briefed about the equipments.
 - Cura (3D drawing)[click here](https://ultimaker.com/en/products/ultimaker-cura-software)
 - Git Windows[click here](https://git-scm.com/download/win).
 
-- installed visual Studio Code
-- installed Code Spell Checker in visual Studio Code
+- install visual Studio Code
+- install Code Spell Checker in visual Studio Code
 ### Linkage Windows GIT to visual Studio Code:
     1. open New Window in visual Studio Code
     2. Copy the clone Address from github
