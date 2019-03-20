@@ -10,7 +10,7 @@ Technical Officer
 STPI-PUNE  
 M S.c(Computer Science)
 
-## About fabzero:
+### About fabzero:
 
 I got oprtunity getting training on FAB LAB Pre-Academy Programme at STPI-Bhubaneswar. On 18th March 2019.
 This Pre-Academy training program is launched by Shri.Omkar Rai, DG, STPI.
@@ -28,7 +28,7 @@ Mr.Franchie has briefed about the equipments.
 - Shopboat wood cutter which runs at 14,000 rpm WEN and DeWALT equipment.
 
 
-### softwares Reqired
+### softwares Reqired:
 - Inkscape (2D Drawing)
 [click here](https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
 - Cura (3D drawing)[click here](https://ultimaker.com/en/products/ultimaker-cura-software)
