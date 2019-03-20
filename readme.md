@@ -1,6 +1,17 @@
-# Allu Chendra Sekhar's fabzero 1st day expirience 
-This is Mr.Allu Chendra Sekhar. I am from STPI-PUNE. Working as Tech. Officer.
-day 1 on fabzero Pre-Academy
+# Allu Chendra Sekhar's fabzero expirience 
+
+## About
+Hai This is Mr.Allu Chendra Sekhar. I am from STPI-PUNE. Working as Technical Officer.I did my masters in computer science.
+
+## Profile
+![](image/chandu_prof.jpg)  
+Allu Chendra Sekhar  
+Technical Officer  
+STPI-PUNE  
+M S.c(Computer Science)
+
+## About fabzero:
+
 I got oprtunity getting training on FAB LAB Pre-Academy Programme at STPI-Bhubaneswar. On 18th March 2019.
 This Pre-Academy training program is launched by Shri.Omkar Rai, DG, STPI.
 I met all other colleagues attending for the training. 
@@ -9,21 +20,15 @@ Both are explaining well.
 In the afternoon along wit Mr.Franchi and Mr.Sibu we have visited FAB LAB two rooms. 
 Mr.Franchie has briefed about the equipments. 
 
-- Roland.<br>
-
-![](image/roland_vily_cuttin_plotter.jpg)
-- EPILOG LASER.
-- PUREX.
-- 3D WOX Printer.
-![](image/3dprinter.jpg)
+- [Roland's vinyl cutter](vinylcutter.md)
+- [3D WOX Printer](3dwox.md)
 
 - Weller heat gun and soldering rod.
 - FORMLABS 3D printing device.
 - Shopboat wood cutter which runs at 14,000 rpm WEN and DeWALT equipment.
 
 
-On 19th March 2019 (2nd day)
-we have installed softwares 
+### softwares Reqired
 - Inkscape (2D Drawing)
 [click here](https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
 - Cura (3D drawing)[click here](https://ultimaker.com/en/products/ultimaker-cura-software)
@@ -31,11 +36,10 @@ we have installed softwares
 
 - installed visual Studio Code
 - installed Code Spell Checker in visual Studio Code
-- Linkage Windows GIT to visual Studio Code:
+### Linkage Windows GIT to visual Studio Code:
     1. open New Window in visual Studio Code
     2. Copy the clone Address from github
     3. Control + Shift + P
     4. New address will open then type Git: Clone pate the clone address. 
-At 12:45 hrs Mr.Franchie informed will give demo on 3D printer,vinyl cutting machine.
 
-- [vinyl cutting machine](vinylcutter.md)
+

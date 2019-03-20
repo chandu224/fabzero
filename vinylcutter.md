@@ -1,3 +1,9 @@
+# Roland's vinyl cutter:
+
+![](image/roland_vily_cuttin_plotter.jpg)
+
+
+
 using vinyl cutting machine like inserting the role into the vinyl machine and how to take precautions by the time of using roland vinyl cutting machine.
 #### the usage are said bellow:
 1. take the role and put it on the vinyl cutting machine rolling rods
