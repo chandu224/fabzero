@@ -42,4 +42,12 @@ Mr.Franchie has briefed about the equipments.
     3. Control + Shift + P
     4. New address will open then type Git: Clone pate the clone address. 
 
-
+### how to use the vinyl cutting machine:
+#### cutting the vinyl roll in vinyl cutting machine:
+ 1. first we have to use this machine we have create a design in Inkscape 2d design software.  
+ * In this software create design and it will save to png format.  
+   
+      
+   
+ 2. in first adjust the vinyl roll in this machine as per above said align to use the vertical lines and small rolls.
+ 3. 
