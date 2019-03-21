@@ -45,7 +45,11 @@ Mr.Franchie has briefed about the equipments.
 ### how to use the vinyl cutting machine:
 #### cutting the vinyl roll in vinyl cutting machine:
  1. first we have to use this machine we have create a design in Inkscape 2d design software.  
- * In this software create design and it will save to png format.  
+      * In this software create design and it will save to png format.
+      * the it will upload to the "http://fabmodules.org/" site and adjust the force and velocity
+      * Next we will give the print the designed png image in vinyl roll
+      the information said bellow link  
+      [How to design sticker use in vinyl cutter machine](Inkscape_design.md)
    
       
    
