@@ -3,4 +3,8 @@ Inkscape is professional quality 2D graphics software. It used for creating grap
 
 [Download inkscape for windows](https://inkscape.org/release/inkscape-0.92.4/windows/64-bit/exe/dl/)
 
-
+1. open inkscape 2D design software and create as fallows
+     * Select new from template and select generic and set custom width and height.  
+     for example i create my name as image so i prefer for width 150px and height 50px   
+     ![](image/img_gene_width.jpg)
+     *  
