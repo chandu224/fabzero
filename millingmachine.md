@@ -12,3 +12,18 @@ Milling Machine is used to printed circuit board milling (also: isolation millin
     PC board.Milling Made Easy with a User-Friendly VPanel.Following   
     Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are   
     require to editing, scaling and milling.
+
+#### Procedure for PC board design and print 
+- Open the KiCAD application. Go to File --> NEW---Click on Schematic Layout Editor
+- New Schema will open and then Select the components and Voltages with Proper connections.
+- Annotate schematic symbols 
+- Run Electrical rules check 
+- Assign PCB footprints to schematic symbols
+- Run PCBnew to layout printed circuit board 
+- Draw thick copper routing between the components
+- Add Graphics line Edge.cuts 
+- Select Plot and save in SVG format. While saving 
+- Select F.Cu and Edge.cuts in include layers 
+- Select Mirrored plot and Negative plot 
+- Open both two files i.e. Trace and Cut in Inkscape software for convert SVG files to PNG file 
+- Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20. 
