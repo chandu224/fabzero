@@ -6,7 +6,7 @@ Milling Machine is used to printed circuit board milling (also: isolation millin
 ![](image/millingmachine.jpg) 
 
     The SRM-20 portable milling machine can mill a broad range of materials,  
-     including modeling wax, chemical wood, foam, acrylic, poly acetate, ABS and  
-      PC board.Milling Made Easy with a User-Friendly VPanel.Following   
-      Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are   
-      require to editing, scaling and milling.
+    including modeling wax, chemical wood, foam, acrylic, poly acetate, ABS and  
+    PC board.Milling Made Easy with a User-Friendly VPanel.Following   
+    Softwares SRP Player, MODELA Player 4, ClickMill and SF Edit2 are   
+    require to editing, scaling and milling.
