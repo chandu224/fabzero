@@ -8,4 +8,4 @@ Inkscape is professional quality 2D graphics software. It used for creating grap
      for example i create my name as image so i prefer for width 150px and height 50px    
       
      ![](image/img_gene_width.jpg)
-     *  
+     *  Then we have to write a name what you print and set it in center and save export to the file to png format  
