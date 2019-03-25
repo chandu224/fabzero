@@ -10,3 +10,4 @@
      4. Printer nozzle will be heated up to 200 degree C. Then printing will start.  
      5. After completion of print, properly we have to remove the bed and place it on a table for 2 min. to reduce the heat.  
      6. With the help of hand knife remove the object from the bed.
+[User Manual](files/sindho.pdf)
