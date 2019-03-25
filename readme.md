@@ -51,7 +51,5 @@ Mr.Franchie has briefed about the equipments.
       the information said bellow link  
       [How to design sticker use in vinyl cutter machine](Inkscape_design.md)
    
-      
-   
  2. in first adjust the vinyl roll in this machine as per above said align to use the vertical lines and small rolls.
- 3. 
+ 3. Then next save file and export to png file. Then give print the png file to the vinyl cutter
