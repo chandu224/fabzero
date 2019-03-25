@@ -9,3 +9,11 @@ Inkscape is professional quality 2D graphics software. It used for creating grap
       
      ![](image/img_gene_width.jpg)
      *  Then we have to write a name what you print and set it in center and save export to the file to png format  
+![](image/fab_module_str.jpg)  
+![](image/fab_module_str1.jpg)
+![](image/fab_module_str2.jpg)
+![](image/fab_module_str3.jpg)
+![](image/fab_module_str4.jpg)
+![](image/fab_module_str5.jpg)
+![](image/fab_module_str6.jpg)
+![](image/fab_module_str7.jpg)
