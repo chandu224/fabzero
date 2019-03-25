@@ -1,7 +1,8 @@
 # Sindoh 3D WOX Printer
 ![](image/3dprinter.jpg)  
 
-    3D printer which we have is a 0.4 mm dia. So Scale the object as per the requirement. If we scale below 0.4 mm dia the object don't print exactly.Object printing time is depend on size of the object going to print, if size is big it will print hours together.  
+    3D printer which we have is a 0.4 mm dia. So Scale the object as per the requirement. If we scale below 0.4 mm dia the object don't print exactly.  
+    Object printing time is depend on size of the object going to print, if size is big it will print hours together.  
 ## Instructions as fallows  
 
      1. Open the 3D_WOX printer software and load the object which was designed in a software OR downloaded from the net.  
