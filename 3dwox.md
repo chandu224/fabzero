@@ -10,4 +10,12 @@
      4. Printer nozzle will be heated up to 200 degree C. Then printing will start.  
      5. After completion of print, properly we have to remove the bed and place it on a table for 2 min. to reduce the heat.  
      6. With the help of hand knife remove the object from the bed.
-[Download the User Manual](files/sindho.pdf)
+[Download the User Manual](files/sindho.pdf)  
+ ### Information about 3D Wox
+What is 3D WOX ? 3D WOX is a high quality 3D printer based on user friendly functions. Easy to use TOUCH UI, integrated with an internal camera, automatic filament installation etc. easy to use even for first time users. Wide variety of PLA and ABS colors. Build your dreams into reality.
+
+What files can I print with my 3D Printer? Ply. Obj, stl format files are supported. Currently on the basis of Stl files, files under 200mb can be printed.
+
+What is a filament? Material for FFF system 3D printer. The main properties of filament is plastic, however there are filaments where metal and even wood is infused.
+
+How to load/unload the filament? Turn on the printer, press the cartridge button on the UI, pressing the Load button will initiate the loading process. In the loaded status, press the cartridge button in UI, the Unload button will initiate the unload process.
