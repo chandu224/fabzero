@@ -36,7 +36,7 @@ what is the 3D printing?
 The 3DWOX printer makes objects by stacking different layers of molten plastic on top of each other.
 
 
-if create 3d Object we have follow three steps
+if create 3d Object we have follow three steps while using 3D wox software.
 - first of all import 3D file in 3D wox software 
 - change settings(like scale,model and     thikness ...ect)
 - Send file to print (Connect with network).
