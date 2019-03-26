@@ -19,3 +19,24 @@ What files can I print with my 3D Printer? Ply. Obj, stl format files are suppor
 What is a filament? Material for FFF system 3D printer. The main properties of filament is plastic, however there are filaments where metal and even wood is infused.
 
 How to load/unload the filament? Turn on the printer, press the cartridge button on the UI, pressing the Load button will initiate the loading process. In the loaded status, press the cartridge button in UI, the Unload button will initiate the unload process.
+
+ 
+### how to print 3D object: 
+#### Software used in designing:
+- 3d Wox Software
+- Ultimate Cura
+- Free Cad
+
+
+the  above said software are used to design a 3d object and print the object.
+
+what is the 3D printing?
+
+3D printing is a process where a three-dimensional object is made by joining material in a computer controlled way. There are several techniques to join the material; melting plastic and laying it on top of each other (FDM or fused deposition modeling), fusing powder together or fusing liquid molecules together. 
+The 3DWOX printer makes objects by stacking different layers of molten plastic on top of each other.
+
+
+if create 3d Object we have follow three steps
+- first of all import 3D file in 3D wox software 
+- change settings(like scale,model and     thikness ...ect)
+- Send file to print (Connect with network).
