@@ -39,7 +39,7 @@ The 3DWOX printer makes objects by stacking different layers of molten plastic o
 
 
 if create 3d Object we have follow three steps while using 3D wox software.
-- first download the 3d object from website like [Thingiverse](https://www.thingiverse.com/).
+- first download the 3d object from website like [Thingiverse click here](https://www.thingiverse.com/).
 - Then next import 3D file in 3D wox software.
 - change settings(like scale,model and     thikness ...ect)
 - Send file to print (Connect with network).    
