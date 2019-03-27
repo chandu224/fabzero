@@ -52,4 +52,6 @@ if create 3d Object we have follow three steps while using 3D wox software.
 
 ![](image/New_Wox3D_img4.jpg)
 
-![](image/New_Print_img1.jpg)
+![](image/New_Print_img1.jpg)  
+
+![](image/3d_wox.jpg)
