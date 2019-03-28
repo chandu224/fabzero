@@ -26,4 +26,15 @@ Milling Machine is used to printed circuit board milling (also: isolation millin
 - Select F.Cu and Edge.cuts in include layers 
 - Select Mirrored plot and Negative plot 
 - Open both two files i.e. Trace and Cut in Inkscape software for convert SVG files to PNG file 
-- Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20. 
+- Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20.
+
+
+## Milling Bits
+
+### Milling Miller 
+![](image/millingbits_millImg.jpg)
+
+
+### Milling Cutters
+![](image/millingbits_cutimg.jpg)
+![](image/bits_careimges.jpg)
