@@ -23,7 +23,7 @@ Milling Machine is used to printed circuit board milling (also: isolation millin
 - Draw thick copper routing between the components
 - Add Graphics line Edge.cuts 
 - Select Plot and save in SVG format. While saving 
-- Select F.Cu and Edge.cuts in include layers 
+- Select F.cucuts and Edge.cuts in include layers 
 - Select Mirrored plot and Negative plot 
 - Open both two files i.e. Trace and Cut in Inkscape software for convert SVG files to PNG file 
 - Open fabmodules.org to convert from PNG to RML format to print the PCB in SRM20.
