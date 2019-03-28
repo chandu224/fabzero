@@ -24,8 +24,8 @@ Mr.Franchie has briefed about the equipments.
 - [3D WOX Printer](3dwox.md)
 - [Milling Machine](millingmachine.md)
 - [ShopBot 3D Cutting and CNC Routers](ShopBot.md)
+- [FORMLABS 3D printing device.](Formlab_3D.md)
 - Weller heat gun and soldering rod.
-- FORMLABS 3D printing device.
 - Shopboat wood cutter which runs at 14,000 rpm WEN and DeWALT equipment.
 
 
