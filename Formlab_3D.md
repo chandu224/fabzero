@@ -1,8 +1,9 @@
 # Formlabs 3D printer 
 
-The Form 2 is engineered for reliability and production of prints from tiny, intricately detailed models, to large, sturdy prototypes at an affordable price.
+The Formlabs 3D printer  is engineered for reliability and production of prints from tiny, intricately detailed models, to large, sturdy prototypes at an affordable price.
 
-The Form 2 is the most advanced professional stereolithography (SLA) desktop 3D printer on the market. It is the successor to the award-winning Form 1+, and it is way more than just an incremental update. In fact, the Form 2 is in a whole new league.  
+The Formlabs 3D printer  is the most advanced professional stereolithography (SLA) desktop 3D printer on the market. It is the successor to the award-winning Form 1+, and it is way more than just an incremental update.
+
 
 ![](image/formlab_Main.jpg)
 
