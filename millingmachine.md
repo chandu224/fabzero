@@ -39,6 +39,6 @@ Milling Machine is used to printed circuit board milling (also: isolation millin
 ![](image/millingbits_cutimg.jpg)
 
 ### How to remove the bits ?
-The milling bits are very good quality but breaking very easily so we are very carefully use that bits.We always put fingers while open and closing it shown like bello image.  
+The milling bits are very good quality but breaking very easily so we are very carefully use that bits.We always put fingers while open and closing it shown like bello image.We have care about     while removing bits place two fingers there take properly if you not do properly bits fall down and broken.  
 
 ![](image/bits_careimges.jpg)
