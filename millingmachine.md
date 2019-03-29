@@ -46,16 +46,24 @@ The milling bits are very good quality but breaking very easily so we are very c
 ### Circuit design:
 
 
-![](image/Kicad-schematiclayout-1.jpg)
-![](image/circute_design_new.jpg)
-![](image/circute_design4.jpg)
+![](image/Kicad-schematiclayout-1.jpg)  
+
+![](image/circute_design_new.jpg)  
+
+![](image/circute_design4.jpg)  
+
 ![](image/circute_design3.jpg)
 
-![](image/circute_design_new1.jpg)
-![](image/inkscape_PCBplot-svg2png_trace-10.jpg)
-![](image/inkscape_PCBplot-svg2png_cut-11.jpg)
-![](image/fabmodules-png2rml_trace-12.jpg)
+![](image/circute_design_new1.jpg)  
+
+![](image/inkscape_PCBplot-svg2png_trace-10.jpg)  
+
+![](image/inkscape_PCBplot-svg2png_cut-11.jpg)  
+
+![](image/fabmodules-png2rml_trace-12.jpg)  
+
 ![](image/fabmodules-png2rml_cut-13.jpg)
 
-![](image/trace_new.jpg)
+![](image/trace_new.jpg)  
+
 ![](image/cut_new.jpg)
