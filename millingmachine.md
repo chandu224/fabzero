@@ -45,6 +45,8 @@ The milling bits are very good quality but breaking very easily so we are very c
 
 ### Circuit design:
 ![](image/circute_design_new.jpg)
+![](image/circute_design3.jpg)
+
 ![](image/circute_design_new1.jpg)
 ![](image/trace_new.jpg)
 ![](image/cut_new.jpg)
