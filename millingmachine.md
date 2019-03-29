@@ -42,3 +42,9 @@ Milling Machine is used to printed circuit board milling (also: isolation millin
 The milling bits are very good quality but breaking very easily so we are very carefully use that bits.We always put fingers while open and closing it shown like bello image.We have care about     while removing bits place two fingers there take properly if you not do properly bits fall down and broken.  
 
 ![](image/bits_careimges.jpg)
+
+
+![](image/circute_design_new.jpg)
+![](image/circute_design_new1.jpg)
+![](image/trace_new.jpg)
+![](image/cut_new.jpg)
