@@ -44,6 +44,8 @@ The milling bits are very good quality but breaking very easily so we are very c
 ![](image/bits_careimges.jpg)
 
 ### Circuit design:
+
+![](image/Kicad-schematiclayout-1.jpg)
 ![](image/circute_design_new.jpg)
 ![](image/circute_design4.jpg)
 ![](image/circute_design3.jpg)
