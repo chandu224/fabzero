@@ -67,3 +67,8 @@ The milling bits are very good quality but breaking very easily so we are very c
 ![](image/trace_new.jpg)  
 
 ![](image/cut_new.jpg)
+
+![](image/Circuit-print-on-board-15.jpg)
+
+![](image/PCB-17.jpg)
+
