@@ -25,6 +25,7 @@ Mr.Franchie has briefed about the equipments.
 - [Milling Machine](millingmachine.md)
 - [ShopBot 3D Cutting and CNC Routers](ShopBot.md)
 - [FORMLABS 3D printing device.](Formlab_3D.md)
+- [Epilog Laser Fusion M2](epiloglaserm2.md)
 - Weller heat gun and soldering rod.
 
 
