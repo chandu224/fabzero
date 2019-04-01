@@ -6,7 +6,7 @@
       * the it will upload to the "http://fabmodules.org/" site and adjust the force and velocity
       * Next we will give the print the designed png image in vinyl roll
       the information said bellow link  
-      [How to design sticker use in vinyl cutter machine](Inkscape_design.md)
+      [How to design sticker use in Inkscape 2D Design Software](Inkscape_design.md)
    
  2. in first adjust the vinyl roll in this machine as per above said align to use the vertical lines and small rolls.
  3. Then next save file and export to png file. Then give print the png file to the vinyl cutter  
