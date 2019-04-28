@@ -1,7 +1,10 @@
 ## Final project:
-![](image/title.jpg ) 
+
 ### EMF Detector:
+![](image/title.jpg ) 
 ### About EMF :
+
+
 EMF detector is a test and measurement apparatus that is used in different industrial applications for detecting problems in electrical wiring and power lines. The EMF meter gives information about the workflow in the electromagnetic field by the measuring electromagnetic radiation flux density (DC). Moreover, this instrument can track the changes in the electromagnetic field that occur over a confident period of the time (AC fields).
 
 ### Working Principal of the project:
