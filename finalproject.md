@@ -11,3 +11,9 @@ EMF detector is a test and measurement apparatus that is used in different indus
 
 ![](image/circuteDesignpro.jpg )  
 
+### Add Foot Print:
+
+![](image/footprint.jpg ) 
+
+
+
