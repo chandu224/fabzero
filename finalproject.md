@@ -1,5 +1,17 @@
 ## Final project:
 
+## My Team:
+![](image/hemanthsirProfilepic.jpg)  
+Hemant Rawade  
+Assistant Director   
+STPI PUNE
+
+
+![](image/54.jpg)  
+Allu Chendra Sekhar  
+Technical Officer   
+STPI PUNE
+
 ### EMF Detector:
 ![](image/title.jpg ) 
 ### About EMF :
