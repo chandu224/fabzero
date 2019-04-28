@@ -4,7 +4,7 @@
 Hai This is Mr.Allu Chendra Sekhar. I am Working as Technical Officer in  STPI-PUNE.I did my masters in computer science in DR.Lankapally bullayya PG College in visakhapatnam.
 
 ## Profile
-![](image/chandu_prof.jpg)  
+![](image/chandu_prof.jpg )  
 Allu Chendra Sekhar  
 Technical Officer  
 STPI-PUNE  
